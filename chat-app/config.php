@@ -2,10 +2,10 @@
 // config.php - Konfiguracja systemu
 
 // Konfiguracja bazy danych
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'mysql.railway.internal');
 define('DB_USER', 'root');
-define('DB_PASS', '');
-define('DB_NAME', 'chat_app');
+define('DB_PASS', 'XIYoTjZqJnpifinpLfnqzsMcgywZIVuU');
+define('DB_NAME', 'railway');
 
 // Konfiguracja aplikacji
 define('SITE_URL', 'http://localhost');
